@@ -9,11 +9,11 @@ sidebar:
     # Profile information
     name: Valentina Ugnichenko
     tagline: QA Engineer
-    avatar: https://github.com/account  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: photo1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: valentina.ugnichenko@gmail.com
-    phone: 066 266 666 66
+    phone: 066 266 27 99
     linkedin: valentine-ugnichenko-b6a196139
     github: valentiayka
     gitlab:
@@ -105,10 +105,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
+
 
     assignments:
       - title: CloudRunner
@@ -121,11 +119,10 @@ projects:
         Interacting with remote team
         API testing (Postman)
         Testing of integration with payment system (Stripe)
-        Testing of integration with plugins, provisioning investigation for Okta platform
-"
+        Testing of integration with plugins, provisioning investigation for Okta platform"
 
       - title:  Oji Life Lab
-        link: "#ojilifelab.com/"
+        link: "#ojilifelab.com"
         tagline: "Mobile testing (Android, iOS)
                   Web testing (cross browser, cross platform)
                   Compatibility testing
@@ -135,7 +132,7 @@ projects:
                   Participating in daily meetings/discussions/demo
                   Interacting with remote team
                   Interacting with users to define bugs
-                  Support users, Debugging issues via Instabug service
+                  Support users, Debugging issues via Instabug service"
 "
 
 
