@@ -60,19 +60,16 @@ career-profile:
 
 
 education:
-     degree:   Drawing teacher and advertising designer
-     university: Kharkiv State Teacher Training University of H.S. Skovoroda
-     time:  2010 – 2015
-      details:
-
-
-    - degree: Quality Assurance
+      degree:   Drawing teacher and advertising designer
+      university: Kharkiv State Teacher Training University of H.S. Skovoroda
+      time:  2010 – 2015
+      degree: Quality Assurance
       university: Source IT school
       time: 2017
       details:
 
-experiences:
-    - role: Apr 2017 – Aug 2018
+      experiences:
+      role: Apr 2017 – Aug 2018
       time: QA Engineer
       company: iTomych Studio, Kharkiv
       details:
