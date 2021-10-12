@@ -43,8 +43,8 @@ sidebar:
         link:
 
 career-profile:
-    - title: Career Profile
-      summary: |
+  title: Career Profile
+  summary: |
       - 4+ years of experience in Quality Assurance
       - Mobile applications testing (iOS and Android)
       - Web applications testing
