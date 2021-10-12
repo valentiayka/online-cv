@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: valentina.ugnichenko@gmail.com
-    phone: 066 266 27 99
+    phone: +38 066 266 27 99
     linkedin: valentine-ugnichenko-b6a196139
     github: valentiayka
     gitlab:
@@ -93,8 +93,8 @@ experiences:
        - Mobile testing, Web testing
        - Test analysis ( applying technics, tools)
        - Creating of test documentation
-       -  Summary report creation for user feedback
-       -  Testing of integration with plugins, other apps, devices
+       - Summary report creation for user feedback
+       - Testing of integration with plugins, other apps, devices
        - Testing of integration with payment system (Stripe)
        - API testing (graphQL)
        - Working on CRM System ( Testing and managing of Magento 2)
