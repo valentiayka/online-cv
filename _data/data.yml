@@ -42,9 +42,9 @@
       - item: Agriculture
         link:
 
-career-profile:
-  title: Career Profile
-  summary:
+  career-profile:
+    title: Career Profile
+    summary:
     <ul>
       <li> 4+ years of experience in Quality Assurance </li>
      <li> Mobile applications testing (iOS and Android) </li>
@@ -59,7 +59,7 @@ career-profile:
     </ul>
 
 
-education:
+  education:
       degree:   Drawing teacher and advertising designer
       university: Kharkiv State Teacher Training University of H.S. Skovoroda
       time:  2010 – 2015
@@ -68,7 +68,7 @@ education:
       time: 2017
       details:
 
-      experiences:
+  experiences:
       role: Apr 2017 – Aug 2018
       time: QA Engineer
       company: iTomych Studio, Kharkiv
@@ -105,7 +105,7 @@ education:
         <li> Interacting with clients to clarify requirements </li>
       </ul>
 
-projects:
+  projects:
     title: Projects
     intro:
 
