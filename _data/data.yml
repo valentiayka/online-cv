@@ -45,16 +45,18 @@ sidebar:
 career-profile:
   title: Career Profile
   summary:
-      - 4+ years of experience in Quality Assurance
-      - Mobile applications testing (iOS and Android)
-      - Web applications testing
-      - Practical experience with different software development methodologies
-      - Good theoretical knowledge of software testing
-      - Good tests design skills
-      - Different bug tracking and tests management tools
-      - Passionate about quality and reliability
-     -  Goal-oriented, attentive to details, perform tasks with all responsibility
-      - Interested in test automation
+    <ul>
+      <li> 4+ years of experience in Quality Assurance </li>
+     <li> Mobile applications testing (iOS and Android) </li>
+     <li> Web applications testing </li>
+     <li> Practical experience with different software development methodologies </li>
+     <li> Good theoretical knowledge of software testing </li>
+     <li> Good tests design skills </li>
+     <li> Different bug tracking and tests management tools </li>
+     <li> Passionate about quality and reliability </li>
+     <li>  Goal-oriented, attentive to details, perform tasks with all responsibility </li>
+     <li> Interested in test automation </li>
+    </ul>
 
 
 education:
