@@ -7,8 +7,6 @@
     <list default="true" id="af7e10fe-6937-430b-a2ec-6a1be50297d0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/profile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/photo1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,7 @@
       <workItem from="1633724568088" duration="112000" />
       <workItem from="1633724786012" duration="131000" />
       <workItem from="1633761394398" duration="8166000" />
+      <workItem from="1634054706090" duration="657000" />
     </task>
     <servers />
   </component>
@@ -80,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

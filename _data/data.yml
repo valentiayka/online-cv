@@ -43,8 +43,8 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
-    summary: |
+    - title: Career Profile
+      summary: |
       - 4+ years of experience in Quality Assurance
       - Mobile applications testing (iOS and Android)
       - Web applications testing
@@ -59,8 +59,8 @@ career-profile:
 
 education:
     - degree:   Drawing teacher and advertising designer
-      university: Kharkiv State Teacher Training University of H.S. Skovoroda
-time:  2010 – 2015
+     university: Kharkiv State Teacher Training University of H.S. Skovoroda
+     time:  2010 – 2015
       details: |
 
 
@@ -85,7 +85,7 @@ experiences:
   - Taking part in establishing and developing of the processes inside the QA team
 
 
-- role: QA Engineer
+  - role: QA Engineer
     time: Aug 2018– Present
       company: Waverley Software, Kharkiv
       details: |
