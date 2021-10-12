@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af7e10fe-6937-430b-a2ec-6a1be50297d0" name="Changes" comment="">
+    <list default="true" id="af7e10fe-6937-430b-a2ec-6a1be50297d0" name="Changes" comment="update cv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       <workItem from="1633724568088" duration="112000" />
       <workItem from="1633724786012" duration="131000" />
       <workItem from="1633761394398" duration="8166000" />
-      <workItem from="1634054706090" duration="5422000" />
+      <workItem from="1634054706090" duration="6612000" />
     </task>
     <servers />
   </component>
@@ -88,5 +89,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="update cv" />
   </component>
 </project>
