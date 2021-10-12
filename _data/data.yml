@@ -1,98 +1,94 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
-  sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+sidebar:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
 
-    # Profile information
-    name: Valentina Ugnichenko
-    tagline: QA Engineer
-    avatar: photo1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Valentina Ugnichenko
+  tagline: QA Engineer
+  avatar: photo1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: valentina.ugnichenko@gmail.com
-    phone: +38 066 266 27 99
-    linkedin: valentine-ugnichenko-b6a196139
-    github: valentiayka
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow:
-    codewars:
+  # Sidebar links
+  email: valentina.ugnichenko@gmail.com
+  phone: +38 066 266 27 99
+  linkedin: valentine-ugnichenko-b6a196139
+  github: valentiayka
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow:
+  codewars:
 
-    languages:
-      - idiom: English
-        level: Intermediate
+  languages:
+    - idiom: English
+      level: Intermediate
 
-      - idiom: Ukrainian
-        level: Native
+    - idiom: Ukrainian
+      level: Native
 
-      - idiom: Russian
-        level: Native
+    - idiom: Russian
+      level: Native
 
-    interests:
-      - item: Painting
-        link:
+  interests:
+    - item: Painting
+      link:
 
-      - item: Vocal
-        link:
+    - item: Vocal
+      link:
 
-      - item: Agriculture
-        link:
+    - item: Agriculture
+      link:
 
-  career-profile:
-    title: Career Profile
-    summary:
-       4+ years of experience in Quality Assurance. Mobile applications testing (iOS and Android).
-      Web applications testing. Practical experience with different software development methodologies.
-      Good theoretical knowledge of software testing. Good tests design skills.
-      Different bug tracking and tests management tools. Passionate about quality and reliability.
-      Goal-oriented, attentive to details, perform tasks with all responsibility. Interested in test automation.
-
-
-  education:
-    - degree:   Drawing teacher and advertising designer
-      university: Kharkiv State Teacher Training University of H.S. Skovoroda
-      time:  2010 – 2015
-    - degree: Quality Assurance
-      university: Source IT school
-      time: 2017
-      details:
-
-  experiences:
-      role: Apr 2017 – Aug 2018
-      time: QA Engineer
-      company: iTomych Studio, Kharkiv
-      details:
-        Functional/regression/black-box/cross-platform, etc. testing. Creating of test documentation.  Interacting with remote team.
-        Interacting with users to define bugs. Interacting with remote team. Interacting with users to define bugs.
-        Participating in daily meetings/discussions. Taking part in estimations.
-        Taking part in establishing and developing of the processes inside the QA team.
-
-    - role: QA Engineer
-      time: Aug 2018– Present
-      company: Waverley Software, Kharkiv
-      details:
-       Functional /regression /black-box/cross-platform, etc. testing. Mobile testing, Web testing.
-        Test analysis ( applying technics, tools). Creating of test documentation. Summary report creation for user feedback.
-        Testing of integration with plugins, other apps, devices. Testing of integration with payment system (Stripe).
-        API testing (graphQL). Working on CRM System ( Testing and managing of Magento 2).
-        Participating in daily meetings/discussions/demo. Interacting with remote team.
-        Interacting with users to define bugs. Interacting with clients to clarify requirements.
+career-profile:
+  title: Career Profile
+  summary: |
+    4+ years of experience in Quality Assurance. Mobile applications testing (iOS and Android).
+    Web applications testing. Practical experience with different software development methodologies.
+    Good theoretical knowledge of software testing. Good tests design skills.
+    Different bug tracking and tests management tools. Passionate about quality and reliability.
+    Goal-oriented, attentive to details, perform tasks with all responsibility. Interested in test automation.
 
 
-  projects:
-    title: Projects
-    intro:
+education:
+  - degree:   Drawing teacher and advertising designer
+    university: Kharkiv State Teacher Training University of H.S. Skovoroda
+    time:  2010 – 2015
+  - degree: Quality Assurance
+    university: Source IT school
+    time: 2017
+    details:
+
+experiences:
+  - role: Apr 2017 – Aug 2018
+    time: QA Engineer
+    company: iTomych Studio, Kharkiv
+    details: |
+      Functional/regression/black-box/cross-platform, etc. testing. Creating of test documentation.  Interacting with remote team.
+      Interacting with users to define bugs. Interacting with remote team. Interacting with users to define bugs.
+      Participating in daily meetings/discussions. Taking part in estimations.
+      Taking part in establishing and developing of the processes inside the QA team.
+
+  - role: QA Engineer
+    time: Aug 2018– Present
+    company: Waverley Software, Kharkiv
+    details: |
+      Functional /regression /black-box/cross-platform, etc. testing. Mobile testing, Web testing.
+      Test analysis ( applying technics, tools). Creating of test documentation. Summary report creation for user feedback.
+      Testing of integration with plugins, other apps, devices. Testing of integration with payment system (Stripe).
+      API testing (graphQL). Working on CRM System ( Testing and managing of Magento 2).
+      Participating in daily meetings/discussions/demo. Interacting with remote team.
+      Interacting with users to define bugs. Interacting with clients to clarify requirements.
 
 
-    assignments:
-      - title: CloudRunner
-        link: "#hook"
-        tagline: "Web-testing
+projects:
+  title: Projects
+  intro:
+
+
+  assignments:
+    - title: CloudRunner
+      link: "#hook"
+      tagline: "Web-testing
         Test Planning / design / management
         Functional /regression /black-box/cross-platform, etc. testing
         Cross browser and cross platform testing
@@ -102,9 +98,9 @@
         Testing of integration with payment system (Stripe)
         Testing of integration with plugins, provisioning investigation for Okta platform"
 
-      - title:  Oji Life Lab
-        link: "#ojilifelab.com"
-        tagline: "Mobile testing (Android, iOS)
+    - title:  Oji Life Lab
+      link: "#ojilifelab.com"
+      tagline: "Mobile testing (Android, iOS)
                   Web testing (cross browser, cross platform)
                   Compatibility testing
                   Functional /regression /black-box/ compatibility, etc. testing
@@ -118,10 +114,10 @@
 
 
 
-  skills:
-    title: Skills &amp; Proficiency
+skills:
+  title: Skills &amp; Proficiency
 
-    toolset:
+  toolset:
     - name: Python & Django
       level: 98%
 
@@ -140,5 +136,5 @@
     - name: Sketch & Photoshop
       level: 60%
 
-  footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
