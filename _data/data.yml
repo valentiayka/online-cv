@@ -45,18 +45,11 @@
   career-profile:
     title: Career Profile
     summary:
-    <ul>
-      <li> 4+ years of experience in Quality Assurance </li>
-     <li> Mobile applications testing (iOS and Android) </li>
-     <li> Web applications testing </li>
-     <li> Practical experience with different software development methodologies </li>
-     <li> Good theoretical knowledge of software testing </li>
-     <li> Good tests design skills </li>
-     <li> Different bug tracking and tests management tools </li>
-     <li> Passionate about quality and reliability </li>
-     <li>  Goal-oriented, attentive to details, perform tasks with all responsibility </li>
-     <li> Interested in test automation </li>
-    </ul>
+       4+ years of experience in Quality Assurance. Mobile applications testing (iOS and Android).
+      Web applications testing. Practical experience with different software development methodologies.
+      Good theoretical knowledge of software testing. Good tests design skills.
+      Different bug tracking and tests management tools. Passionate about quality and reliability.
+      Goal-oriented, attentive to details, perform tasks with all responsibility. Interested in test automation.
 
 
   education:
@@ -73,37 +66,22 @@
       time: QA Engineer
       company: iTomych Studio, Kharkiv
       details:
-  <ul>
-    <li> Functional/regression/black-box/cross-platform, etc. testing </li>
-    <li> Creating of test documentation </li>
-    <li> Interacting with remote team </li>
-    <li> Interacting with users to define bugs </li>
-    <li> Interacting with remote team </li>
-    <li> Interacting with users to define bugs </li>
-    <li> Participating in daily meetings/discussions </li>
-    <li> Taking part in estimations </li>
-    <li> Taking part in establishing and developing of the processes inside the QA team </li>
-  </ul>
+        Functional/regression/black-box/cross-platform, etc. testing. Creating of test documentation.  Interacting with remote team.
+        Interacting with users to define bugs. Interacting with remote team. Interacting with users to define bugs.
+        Participating in daily meetings/discussions. Taking part in estimations.
+        Taking part in establishing and developing of the processes inside the QA team.
 
-  - role: QA Engineer
-    time: Aug 2018– Present
+    - role: QA Engineer
+      time: Aug 2018– Present
       company: Waverley Software, Kharkiv
       details:
-      <ul>
-        <li> Functional /regression /black-box/cross-platform, etc. testing </li>
-        <li> Mobile testing, Web testing </li>
-        <li> Test analysis ( applying technics, tools) </li>
-        <li> Creating of test documentation </li>
-        <li> Summary report creation for user feedback </li>
-        <li> Testing of integration with plugins, other apps, devices </li>
-        <li> Testing of integration with payment system (Stripe) </li>
-        <li> API testing (graphQL) </li>
-        <li> Working on CRM System ( Testing and managing of Magento 2) </li>
-        <li> Participating in daily meetings/discussions/demo </li>
-        <li> Interacting with remote team </li>
-        <li> Interacting with users to define bugs </li>
-        <li> Interacting with clients to clarify requirements </li>
-      </ul>
+       Functional /regression /black-box/cross-platform, etc. testing. Mobile testing, Web testing.
+        Test analysis ( applying technics, tools). Creating of test documentation. Summary report creation for user feedback.
+        Testing of integration with plugins, other apps, devices. Testing of integration with payment system (Stripe).
+        API testing (graphQL). Working on CRM System ( Testing and managing of Magento 2).
+        Participating in daily meetings/discussions/demo. Interacting with remote team.
+        Interacting with users to define bugs. Interacting with clients to clarify requirements.
+
 
   projects:
     title: Projects
