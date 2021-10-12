@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar:
+  sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -43,7 +43,7 @@ sidebar:
       - item: Agriculture
         link:
 
-career-profile:
+  career-profile:
     title: Career Profile
     summary:
        4+ years of experience in Quality Assurance. Mobile applications testing (iOS and Android).
@@ -53,7 +53,7 @@ career-profile:
       Goal-oriented, attentive to details, perform tasks with all responsibility. Interested in test automation.
 
 
-education:
+  education:
     - degree:   Drawing teacher and advertising designer
       university: Kharkiv State Teacher Training University of H.S. Skovoroda
       time:  2010 – 2015
@@ -62,7 +62,7 @@ education:
       time: 2017
       details:
 
-experiences:
+  experiences:
       role: Apr 2017 – Aug 2018
       time: QA Engineer
       company: iTomych Studio, Kharkiv
@@ -84,7 +84,7 @@ experiences:
         Interacting with users to define bugs. Interacting with clients to clarify requirements.
 
 
-projects:
+  projects:
     title: Projects
     intro:
 
@@ -118,7 +118,7 @@ projects:
 
 
 
-skills:
+  skills:
     title: Skills &amp; Proficiency
 
     toolset:
